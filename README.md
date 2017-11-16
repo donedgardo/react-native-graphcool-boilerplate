@@ -1,27 +1,16 @@
-# React Native & GraphQL examples
-
-Code examples & starter kits to see how React Native works with GraphQL and other technologies.
-
-<hr>
-
-**<p align="center">Select an example** from the list above to get started ⤴️</p>
-
+# React Native, Apollo 2, GraphCool, Auth Boilerplate
 <hr>
 
 <p align="center"><img src="http://imgur.com/LhgNXnw.png" /></p>
 
-The examples above cover the following technologies:
+The boilerplate cover the following technologies:
 
 * [GraphQL](http://graphql.org/)
 * [Apollo Client](http://dev.apollodata.com/react/)
-* [Relay Modern/Relay Classic](https://facebook.github.io/relay/)
 * [Expo](https://expo.io)
-* [Auth0 Lock](https://github.com/auth0/lock)
-* [GraphQL subscriptions](https://www.graph.cool/docs/reference/simple-api/subscriptions-aip7oojeiv/)
-* [File upload](https://www.graph.cool/docs/reference/file-handling/overview-eer4wiang0/)
-* ...
-
-> Are you looking for another example? [Request it here](https://github.com/graphcool-examples/react-graphql/issues/new).
+* [React Navigation](https://reactnavigation.org)
+* [Glamorous-Native](https://glamorous.rocks)
+* [GraphCool](https://graph.cool)
 
 ## Tutorials
 
@@ -32,8 +21,11 @@ The examples above cover the following technologies:
 
 ## Contributors
 
-A big thank you to all contributors and supporters of this repository 💚 
+A big thank you to all contributors of this repository 💚
 
+<a href="https://github.com/donedgardo/" target="_blank">
+  <img src="https://github.com/donedgardo.png?size=64" width="64" height="64" alt="nikolasburk">
+</a>
 <a href="https://github.com/nikolasburk/" target="_blank">
   <img src="https://github.com/nikolasburk.png?size=64" width="64" height="64" alt="nikolasburk">
 </a>
@@ -51,8 +43,4 @@ A big thank you to all contributors and supporters of this repository 💚
 </a>
 
 ## Help & Community [![Slack Status](https://slack.graph.cool/badge.svg)](https://slack.graph.cool)
-
-Say hello in our [Slack](http://slack.graph.cool/) or visit the [Graphcool Forum](https://www.graph.cool/forum) if you run into issues or have questions. We love talking to you!
-
 ![](http://i.imgur.com/5RHR6Ku.png)
-
